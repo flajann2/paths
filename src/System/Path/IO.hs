@@ -1,4 +1,3 @@
-{-# LANGUAGE Safe #-}
 
 -- | This module extends "System.Path" (which is re-exported for
 -- convenience) with thin wrappers around common IO functions

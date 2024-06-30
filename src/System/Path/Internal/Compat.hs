@@ -1,5 +1,4 @@
 {-# LANGUAGE CPP  #-}
-{-# LANGUAGE Safe #-}
 
 {-# OPTIONS_GHC -fno-warn-unused-imports #-}
 

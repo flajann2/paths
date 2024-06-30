@@ -1,5 +1,4 @@
 {-# LANGUAGE CPP  #-}
-{-# LANGUAGE Safe #-}
 module System.Path.IO.Handle
   (
     -- * Wrappers around "System.IO"

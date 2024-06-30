@@ -1,4 +1,3 @@
-{-# LANGUAGE Safe #-}
 -- | Wrappers around "Data.ByteString"
 module System.Path.IO.ByteString
   (

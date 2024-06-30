@@ -1,5 +1,4 @@
 {-# LANGUAGE RankNTypes          #-}
-{-# LANGUAGE Safe                #-}
 {-# LANGUAGE ScopedTypeVariables #-}
 
 -- | Lenses in the style of [System.FilePath.Lens](https://hackage.haskell.org/package/lens/docs/System-FilePath-Lens.html).

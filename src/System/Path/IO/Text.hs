@@ -1,5 +1,4 @@
 {-# LANGUAGE CPP  #-}
-{-# LANGUAGE Safe #-}
 -- | Wrappers around "Data.Text.IO" and "Data.Text.Lazy.IO"
 module System.Path.IO.Text
   (
